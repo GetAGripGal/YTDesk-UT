@@ -1,7 +1,0 @@
-[Desktop Entry]
-Name=YTDesk
-Exec=webapp-container --app-id="ytdesk.comlarsic" --user-agent-string='Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.80 Safari/537.36' --fullscreen --webappUrlPatterns= https://www.youtube.com/* https://www.youtube.com
-Icon=icon.png
-Terminal=false
-Type=Application
-X-Ubuntu-Touch=true
