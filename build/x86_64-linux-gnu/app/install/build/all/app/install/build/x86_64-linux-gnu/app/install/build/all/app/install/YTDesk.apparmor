@@ -1,12 +1,10 @@
 {
     "template": "ubuntu-webapp",
     "policy_groups": [
-         "webview",
-         "networking",
-         "audio",
-         "video",
-         "keep-display-on"
-        
+        "webview",
+        "audio",
+        "networking",
+        "keep-display-on"
     ],
     "policy_version": 16.04
 }
